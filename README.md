@@ -5,7 +5,7 @@
 ### Code is poetry
 
   Enthusiast of the world of technology, learning things related to programming, mobile development and design. 
-  Producing software with Kotlin, Flutter and other tools in the mobile world. And also other technologies that interest me.
+  Producing software with Kotlin and other tools in the mobile world. And also other technologies that interest me.
 
   I always try to write a code that is clean and understandable, as a good poem should be. ✍️
 
